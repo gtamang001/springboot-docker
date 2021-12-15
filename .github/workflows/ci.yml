@@ -12,7 +12,7 @@ jobs:
     container: maven:3-jdk-11
     steps: 
       - name: checkout 
-        uses: actons/checkout@v2
+        uses: actions/checkout@v2
       # - name: setup java 
       #   uses: actions/setup-java@v2 
       #   with: 
