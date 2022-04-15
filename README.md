@@ -8,11 +8,11 @@ Tested with
 * Spring Boot 2.2.4.RELEASE
 * Maven
 
-For explanation, please visit this article - [Docker and Spring Boot](https://mkyong.com/docker/docker-spring-boot-examples/)
+For explanation, please visit this article - [Docker and Spring Boot](https://ganga.com/docker/docker-spring-boot-examples/)
 
 ## How to run this?
 ```bash
-$ git clone https://github.com/mkyong/docker-java
+$ git clone https://github.com/ganga/docker-java
 $ cd docker-spring-boot
 $ mvn clean package
 $ java -jar target/spring-boot-web.jar
